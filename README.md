@@ -1,14 +1,15 @@
-# My Personal Website
+# 主页
 
-This is the source code for my personal website hosted on GitHub Pages.
+这是 zerolook 的个人网站源代码，托管在 GitHub Pages 上。
 
 ## Features
-- **Home Page**: Introduction to who I am and what I do.
-- **Portfolio**: Showcase of my work and projects.
-- **Contact**: Ways to get in touch with me.
+- **Home Page**: 介绍 zerolook 的个人信息及工作。
+- **Portfolio**: 展示 zerolook 的作品和项目。
+- **Contact**: 提供联系 zerolook 的方式。
 
 ## How to Use
-You can view the live site at [[https://yourusername.github.io/repositoryname](https://yourusername.github.io/repositoryname](https://zerolook.github.io/gsweb.github.io/)).
+你可以通过以下网址访问该网站：  
+[https://zerolook.github.io/gsweb.github.io/](https://zerolook.github.io/gsweb.github.io/)
 
 ## Technologies Used
 - HTML5
@@ -16,4 +17,4 @@ You can view the live site at [[https://yourusername.github.io/repositoryname](h
 - JavaScript
 
 ## Author
-Created by [Your Name](https://github.com/yourusername).
+Created by [zerolook](https://github.com/zerolook).
