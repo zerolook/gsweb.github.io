@@ -11,10 +11,21 @@
 你可以通过以下网址访问该网站：  
 [https://zerolook.github.io/gsweb.github.io/](https://zerolook.github.io/gsweb.github.io/)
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
+要查看主页文件 `Home.html`，请点击以下链接：  
+[点击这里查看 Home 页面](https://zerolook.github.io/gsweb.github.io/Home.html)
 
-## Author
-Created by [zerolook](https://github.com/zerolook).
+## Home.html 内容
+下面是 `Home.html` 文件的一部分内容：
+
+```html
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <title>Home</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <h1>欢迎来到我的主页</h1>
+    <p>这是我的个人网站主页。</p>
+</body>
+</html>
