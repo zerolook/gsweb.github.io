@@ -8,7 +8,7 @@ This is the source code for my personal website hosted on GitHub Pages.
 - **Contact**: Ways to get in touch with me.
 
 ## How to Use
-You can view the live site at [https://yourusername.github.io/repositoryname](https://yourusername.github.io/repositoryname).
+You can view the live site at [[https://yourusername.github.io/repositoryname](https://yourusername.github.io/repositoryname](https://zerolook.github.io/gsweb.github.io/)).
 
 ## Technologies Used
 - HTML5
